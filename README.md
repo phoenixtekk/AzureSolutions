@@ -1,2 +1,2 @@
-# AzureSolutions
+# Azure Solutions
 Azure Solutions Repository
